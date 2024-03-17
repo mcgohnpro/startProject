@@ -1,0 +1,10 @@
+{
+  "liveServer.settings.AdvanceCustomBrowserCmdLine": "",
+  "liveServer.settings.CustomBrowser": "chrome",
+  "window.zoomLevel": -1,
+  "editor.minimap.size": "fit",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "files.autoSave": "onFocusChange",
+  "editor.formatOnSave": true,
+  "prettier.requireConfig": true
+}
